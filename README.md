@@ -3,7 +3,7 @@ UwUbot provides you any anime you wish for in just a couple of button clicks.
 
 ### How this bot works?
 - UwUbot makes use of PyCord for it's pages, button, menu and everything you see of.
-- Backend code automates the whole process of watching/downloading anime from [animepahe.com](https://animepahe.com) using Requests, BeautifulSoup, Regex, JSON and Maths module.
+- Backend code automates the whole process of watching/downloading anime from [animepahe.com](https://animepahe.com) using Requests, BeautifulSoup, Regex, JSON and Math module.
 
 #### Logic
 - Takes anime name input from User
