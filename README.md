@@ -23,7 +23,7 @@ UwUbot provides you any anime you wish for in just a couple of button clicks.
 UwUbot is available in Discord and even Terminal. 
 Here's how to use it:
 #### Discord
-1. Git clone the repository: `change this`
+1. Git clone the repository: `git clone https://github.com/0xMinato/UwUbot.git`
 2. Install PyCord: `python3 -m pip install -U py-cord`
 3. Install Requests and BeautifulSoup: `pip3 install requests bs4`
 4. Create `config.py` with your Discord bot-token from [Developer Portal](https://discord.com/developers/applications):
@@ -34,6 +34,6 @@ $ echo "TOKEN=XXXX-SECRET-TOKEN-XXXX" > config.py
 6. Use `!weeb anime-name` to fetch your favorite anime Watch/Download link.
 
 #### Terminal
-1. Git clone the repository: `change this`
+1. Git clone the repository: `git clone https://github.com/0xMinato/UwUbot.git`
 2. Install Requests and BeautifulSoup: `pip3 install requests bs4`
 2. Run `terminal-bot.py` using Python3.
