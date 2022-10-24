@@ -3,7 +3,7 @@ UwUbot provides you any anime you wish for in just a couple of button clicks.
 
 ### How this bot works?
 - UwUbot makes use of PyCord for it's pages, button, menu and everything you see of.
-- Backend code automates the whole process of watching/downloading anime from (animepahe.com)[https://animepahe.com] using Requests, BeautifulSoup, Regex, JSON and Maths module.
+- Backend code automates the whole process of watching/downloading anime from [animepahe.com](https://animepahe.com) using Requests, BeautifulSoup, Regex, JSON and Maths module.
 
 #### Logic
 - Takes anime name input from User
@@ -26,7 +26,7 @@ Here's how to use it:
 1. Git clone the repository: `change this`
 2. Install PyCord: `python3 -m pip install -U py-cord`
 3. Install Requests and BeautifulSoup: `pip3 install requests bs4`
-4. Create `config.py` with your Discord bot-token from (Developer Portal)[https://discord.com/developers/applications]:
+4. Create `config.py` with your Discord bot-token from [Developer Portal](https://discord.com/developers/applications):
 ```bash
 $ echo "TOKEN=XXXX-SECRET-TOKEN-XXXX" > config.py
 ```
